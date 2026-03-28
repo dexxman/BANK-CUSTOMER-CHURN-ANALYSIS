@@ -83,7 +83,7 @@ Gender-specific engagement (review if female customers feel products/services sp
 Regional Fixes: Audit and improve service quality/competitiveness in Germany and France.
 Satisfaction Boost: Implement Net Promoter Score (NPS) tracking + closed-loop feedback system.
 
-Long-term (12+ months)
+**Long-term (12+ months)**
 
 Build Churn Prediction Model using machine learning (features: tenure, age, gender, satisfaction, country, complaints).
 Invest in Personalization & AI-driven insights, proactive offers based on life events.
@@ -94,21 +94,25 @@ Expected Impact: Reducing churn from 20.4% to under 12–15% could retain hundre
 
 <img width="1534" height="734" alt="Screenshot 2026-03-27 234702" src="https://github.com/user-attachments/assets/5329c238-d968-4a13-a3d4-a5e44cc24fbc" />
 
-#Core Analytical Insights
-The data highlights a clear gap between customer satisfaction and retention. While over 60% of customers are classified as satisfied, the presence of nearly 4,000 unsatisfied customers combined with 2,038 exits suggests that satisfaction scores alone do not fully prevent churn. Inactive customers at 4,849 represent almost half of the active base, indicating widespread disengagement that could easily translate into future exits if not addressed.
+# Core Analytical Insights
+
+- The data highlights a clear gap between customer satisfaction and retention. While over 60% of customers are classified as satisfied, the presence of nearly 4,000 unsatisfied customers combined with 2,038 exits suggests that satisfaction scores alone do not fully prevent churn. Inactive customers at 4,849 represent almost half of the active base, indicating widespread disengagement that could easily translate into future exits if not addressed.
 The near-even split in balances across Diamond, Gold, Platinum, and Silver cards shows healthy premium card adoption. However, the concentration of very high balances in a few individual accounts (such as Zetticci and Zito) signals potential risk — losing a small number of ultra-high-net-worth customers could significantly impact overall deposit totals.
-Gender distribution is reasonably balanced, but combined with previous churn analysis showing higher female churn rates, this warrants closer monitoring to ensure service equity across segments.
+- Gender distribution is reasonably balanced, but combined with previous churn analysis showing higher female churn rates, this warrants closer monitoring to ensure service equity across segments.
 The average balance of $76,486 suggests the bank serves a middle-to-upper-middle income clientele rather than purely mass-market or ultra-wealthy segments. This positioning offers good cross-selling opportunities but also makes the bank vulnerable to competitors offering better digital experiences or higher interest rates.
-Root Causes Identified
-Several underlying issues emerge from the combined metrics. High inactivity levels likely stem from poor ongoing engagement after account opening. The gap between estimated salary and actual balance in many records points to customers maintaining primary relationships elsewhere while keeping secondary or dormant accounts here. Unsatisfied customers, though fewer than satisfied ones, appear disproportionately likely to exit, suggesting service failures or unmet expectations in key touchpoints.
-Recommended Solutions and Action Plan
-Immediate Actions (Next 30 Days)
+
+**Root Causes Identified**.
+- Several underlying issues emerge from the combined metrics. High inactivity levels likely stem from poor ongoing engagement after account opening. The gap between estimated salary and actual balance in many records points to customers maintaining primary relationships elsewhere while keeping secondary or dormant accounts here. Unsatisfied customers, though fewer than satisfied ones, appear disproportionately likely to exit, suggesting service failures or unmet expectations in key touchpoints.
+
+
+**Recommended Solutions and Action Plan**
+- Immediate Actions (Next 30 Days)
 Launch a targeted reactivation campaign aimed at the 4,849 inactive customers, offering incentives such as bonus interest, fee waivers, or personalized financial reviews. Prioritize customers with high estimated salaries but zero or low balances, as they represent hidden potential revenue.
-Short-term Initiatives (1–3 Months)
+- Short-term Initiatives (1–3 Months).
 Implement a satisfaction recovery program for the 3,946 unsatisfied customers. This should include direct outreach, complaint resolution tracking, and quick service improvements based on feedback. Segment outreach by card type, giving special attention to Diamond and Gold card holders who carry the largest balances.
 
-*Expected Business Impact*
-Successfully reactivating even 30% of inactive customers and reducing future exits by half could add hundreds of millions in stable deposits while lowering acquisition costs. Moving unsatisfied customers toward higher satisfaction levels will strengthen retention and create opportunities for cross-selling premium cards and additional products.
+**Expected Business Impact**
+- Successfully reactivating even 30% of inactive customers and reducing future exits by half could add hundreds of millions in stable deposits while lowering acquisition costs. Moving unsatisfied customers toward higher satisfaction levels will strengthen retention and create opportunities for cross-selling premium cards and additional products.
 
 
 
